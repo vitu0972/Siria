@@ -20,7 +20,7 @@ Siria é uma ferramenta de avaliação de riscos com relatório gerado por IA, j
 # Como utilizar
 
 1. Clone o repositório:
-git clone https://github.com/vitu0972/Siria.git ou baixe o arquivo em 
+git clone https://github.com/vitu0972/Siria.git
 
 2. Crie o ambiente virtual
 python -m venv venv
